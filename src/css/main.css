@@ -1,0 +1,29 @@
+div{
+	font-family: 'Signika', sans-serif;	
+}
+
+.content{
+	padding-left:3%;
+}
+
+
+.container{
+	background: linear-gradient(to top, #56ccf2, #2f80ed);
+	position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+	padding: 3% 10% 3% 10%;
+}
+
+.container2{
+	background: #FFF;
+	padding:1%;
+	border-radius:10px;
+}
+
+
+.divborder{
+	padding: 1%;
+}

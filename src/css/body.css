@@ -1,0 +1,53 @@
+.userInput{
+	float: left;
+	width: 40%;
+}
+
+.userDisplay{
+	float: right;
+	width: 45%;
+}
+
+.clearfix{
+	overflow: auto;
+}
+
+input[type=text], input[type=number]{
+    padding: 12px;  
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+	width: 100%;
+}
+
+.button{
+	font-size: 13px;
+	font-family: 'Signika', sans-serif;
+	color: #FFF;
+    background-color: #40a2ef;
+    padding: 10px 25px;
+    font-size: 16px;
+	border:none;
+	margin-top: 15px;
+	border: 2px solid #40a2ef;
+	border-radius:2px; 
+}
+
+.button:hover{
+	color: #40a2ef;
+	background-color: #FFF;
+	border: 2px solid #40a2ef;
+    transition: all 0.3s;
+	border-radius:2px;
+}
+
+.pText{
+    font-size:15px; 
+    margin-top:0;
+}
+
+.pUserDisplay{
+    margin-left: 4%;
+}
