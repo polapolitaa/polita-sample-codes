@@ -11,6 +11,8 @@ class App extends Component {
   render() {
 
     console.log('Hello I am change');
+
+    console.log('update two');
     return (
       <div className="container">
         <div className="container2">
