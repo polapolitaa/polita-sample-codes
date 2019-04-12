@@ -9,6 +9,8 @@ import Footer from './components/footer.jsx';
 class App extends Component {
 
   render() {
+
+    console.log('Hello I am change');
     return (
       <div className="container">
         <div className="container2">
